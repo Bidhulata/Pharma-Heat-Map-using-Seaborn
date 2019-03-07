@@ -46,7 +46,7 @@ ax.axis('off')
 # Use the heatmap function from the seaborn package
 sns.heatmap(result,annot=labels,fmt="",cmap='RdYlGn',linewidths=0.30,ax=ax)
 
-# Display the Pharma Sector Heatmap
+# Display the Pharma Sector Heatmapp
 plt.show()
 
 
